@@ -255,3 +255,57 @@ print(person)
 
 
 
+
+#------------------------------------
+k= "----------------------------------------"
+print(k,)
+#------------------------------------
+
+
+
+
+
+#Q14   Write a program that stores:
+#your name
+#your city
+#your age
+#Then print all three in one line.
+
+
+name = "shubham"
+city = "mumbai"
+age = 26
+
+print(name,city,age)
+
+
+
+
+#------------------------------------
+k= "----------------------------------------"
+print(k,)
+#------------------------------------
+
+
+#Q15   Predict the output:
+
+name = "Shubham"
+print(name)
+print("Hello", name)
+
+
+#------------------------------------
+k= "----------------------------------------"
+print(k,)
+#------------------------------------
+
+
+#Q16 Write a Python script that prints: 10,20,30
+
+a = 10
+b =20
+Cd = 30
+
+print(a)
+print(b)
+print(Cd)
